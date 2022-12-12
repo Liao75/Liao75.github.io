@@ -458,9 +458,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_5.png", id:"CachedBmp_5"},
-		{src:"images/CachedBmp_4.png", id:"CachedBmp_4"},
-		{src:"images/走鋼索_atlas_1.png", id:"走鋼索_atlas_1"}
+		{src:"images/CachedBmp_5.png?1670850403340", id:"CachedBmp_5"},
+		{src:"images/CachedBmp_4.png?1670850403340", id:"CachedBmp_4"},
+		{src:"images/走鋼索_atlas_1.png?1670850403118", id:"走鋼索_atlas_1"}
 	],
 	preloads: []
 };
